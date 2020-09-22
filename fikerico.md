@@ -9,6 +9,10 @@ abrir uma conta em uma corretora, para poder encher seu carrinho com as melhores
 
 1. Abrir uma conta na corretora **FIKERICO**
 2. Transferir o valor que queira investir.
-3. Acessar o **_HOMEBROKER_** para efetuar os compras e vendas.
+3. Acessar o **_HOME BROKER_** para efetuar os compras e vendas.
 
+Após estas etapas estarem concluídas :
+- [x] conta aberta.
+- [x] valor para investir.
+- [x] acesso ao home broker 
 `Pronto você já é um investidor no mercado de ações`
