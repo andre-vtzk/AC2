@@ -18,6 +18,6 @@ Após estas etapas estarem concluídas :
 
 `Pronto você já é um investidor no mercado de ações` 📈🚀🤑
 
-**É O FIM DO**  ~~PREJUÍZO~~, [Faça sua conta aqui](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md) ou acesse [ww.fikerico.com](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md)
+**É O FIM DO**  ~~PREJUÍZO~~, [Faça sua conta aqui](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md) ou acesse [www.fikerico.com](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md)
 
-[André Vatezeck](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md)
+[André Vatezeck](https://github.com/andre-vtzk)
