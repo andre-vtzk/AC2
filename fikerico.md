@@ -16,3 +16,5 @@ Após estas etapas estarem concluídas :
 - [x] valor para investir.
 - [x] acesso ao home broker 
 `Pronto você já é um investidor no mercado de ações`
+
+**ACABANDO** com o ~~prejuízo~~ , [Faça sua conta aqui](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md) ou acesse [ww.fikerico.com](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md)
