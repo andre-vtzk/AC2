@@ -6,4 +6,3 @@
 
 
 Para **_investir_** é fácil basta abrir uma conta em uma corretora, para poder encher seu carrinho com as melhores ações do mercado.
-![image](https://user-images.githubusercontent.com/61657926/93906983-32df1080-fcd3-11ea-857b-d6556a6dcceb.png)
