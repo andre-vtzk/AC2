@@ -5,4 +5,5 @@
 ![money](https://user-images.githubusercontent.com/61657926/93905833-cca5be00-fcd1-11ea-91b3-6089a9d988bb.jpg)
 
 
-Para **_investir_** é fácil basta abrir uma conta em uma corretora, para poder encher seu carrinho com os melhores papéias do mercado.
+Para **_investir_** é fácil basta abrir uma conta em uma corretora, para poder encher seu carrinho com as melhores ações do mercado.
+![image](https://user-images.githubusercontent.com/61657926/93906983-32df1080-fcd3-11ea-857b-d6556a6dcceb.png)
