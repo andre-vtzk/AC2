@@ -20,4 +20,6 @@ Após estas etapas estarem concluídas :
 
 **É O FIM DO**  ~~PREJUÍZO~~, [Faça sua conta aqui](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md) ou acesse [www.fikerico.com](https://github.com/andre-vtzk/AC2/edit/master/fikerico.md)
 
+ `#Meu sonho americano.`
+
 [André Vatezeck](https://github.com/andre-vtzk)
